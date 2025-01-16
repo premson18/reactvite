@@ -4,7 +4,7 @@ import "./name.css"
 const Name = () => {
   return (
     <div>
-      <h1>Premson</h1>
+      <h1>Website is Under development</h1>
     </div>
   )
 }
