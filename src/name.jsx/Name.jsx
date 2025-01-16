@@ -1,4 +1,5 @@
 import React from 'react'
+import "./name.css"
 
 const Name = () => {
   return (
